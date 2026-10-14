@@ -1,0 +1,170 @@
+[
+  {
+    "previousKey": "portrait-sculpted",
+    "replacementKey": "portrait-suit",
+    "source": "https://www.pexels.com/photo/4033968/",
+    "alt": "A bearded gentleman in a black suit"
+  },
+  {
+    "previousKey": "portrait-brunette",
+    "replacementKey": "portrait-blue",
+    "source": "https://www.pexels.com/photo/5728024/",
+    "alt": "A bearded gentleman in a blue suit"
+  },
+  {
+    "previousKey": "portrait-profile",
+    "replacementKey": "portrait-cufflinks",
+    "source": "https://www.pexels.com/photo/28513052/",
+    "alt": "A gentleman adjusting his cufflinks against a dark backdrop"
+  },
+  {
+    "previousKey": "portrait-poise",
+    "replacementKey": "portrait-beard",
+    "source": "https://www.pexels.com/photo/10125394/",
+    "alt": "Monochrome portrait of a gentleman with a carefully groomed beard"
+  },
+  {
+    "previousKey": "portrait-studio",
+    "replacementKey": "haircut-close",
+    "source": "https://www.pexels.com/photo/10003357/",
+    "alt": "A barber carefully trimming a man’s beard"
+  },
+  {
+    "previousKey": "makeup-beauty",
+    "replacementKey": "haircut-scissor",
+    "source": "https://www.pexels.com/photo/12464843/",
+    "alt": "Precision scissor cutting on a male client"
+  },
+  {
+    "previousKey": "makeup-light",
+    "replacementKey": "beard-razor",
+    "source": "https://www.pexels.com/photo/7447140/",
+    "alt": "A barber detailing a man’s beard with a razor"
+  },
+  {
+    "previousKey": "makeup-expression",
+    "replacementKey": "haircut-shaping",
+    "source": "https://www.pexels.com/photo/9992818/",
+    "alt": "A barber shaping a male client’s haircut"
+  },
+  {
+    "previousKey": "makeup-bold",
+    "replacementKey": "haircut-precision",
+    "source": "https://www.pexels.com/photo/7518735/",
+    "alt": "A precise men’s haircut in progress"
+  },
+  {
+    "previousKey": "studio-interior",
+    "replacementKey": "lounge-interior",
+    "source": "https://www.pexels.com/photo/4969835/",
+    "alt": "A refined barbershop with leather chairs and large mirrors"
+  },
+  {
+    "previousKey": "studio-wide",
+    "replacementKey": "barber-chair",
+    "source": "https://www.pexels.com/photo/3993296/",
+    "alt": "A black leather barber chair in a contemporary barbershop"
+  },
+  {
+    "previousKey": "skin-space",
+    "replacementKey": "barber-station",
+    "source": "https://www.pexels.com/photo/8867485/",
+    "alt": "A male client receiving a soothing towel treatment"
+  },
+  {
+    "previousKey": "colour-craft",
+    "replacementKey": "haircut-style",
+    "source": "https://www.pexels.com/photo/7447132/",
+    "alt": "A barber cutting and shaping a man’s hair"
+  },
+  {
+    "previousKey": "styling-craft",
+    "replacementKey": "scissor-detail",
+    "source": "https://www.pexels.com/photo/12464846/",
+    "alt": "A barber carefully detailing a man’s neckline with a razor"
+  },
+  {
+    "previousKey": "styling-mirror",
+    "replacementKey": "hair-wash",
+    "source": "https://www.pexels.com/photo/7447131/",
+    "alt": "A male client receiving a professional hair wash"
+  },
+  {
+    "previousKey": "nails-pearls",
+    "replacementKey": "shave-classic",
+    "source": "https://www.pexels.com/photo/8867551/",
+    "alt": "A classic straight-razor shave for a male client"
+  },
+  {
+    "previousKey": "nails-art",
+    "replacementKey": "towel-ritual",
+    "source": "https://www.pexels.com/photo/7447149/",
+    "alt": "A male client enjoying a hot towel treatment"
+  },
+  {
+    "previousKey": "nails-polish",
+    "replacementKey": "shaving-tools",
+    "source": "https://www.pexels.com/photo/995300/",
+    "alt": "A straight razor, shaving brush and mug"
+  },
+  {
+    "previousKey": "nails-craft",
+    "replacementKey": "tool-holster",
+    "source": "https://www.pexels.com/photo/7697208/",
+    "alt": "Professional barber equipment in close detail"
+  },
+  {
+    "previousKey": "nails-finish",
+    "replacementKey": "clipper-detail",
+    "source": "https://www.pexels.com/photo/10775074/",
+    "alt": "Barber scissors and clippers on a textured surface"
+  },
+  {
+    "previousKey": "skin-ritual",
+    "replacementKey": "facial-mask",
+    "source": "https://www.pexels.com/photo/18704463/",
+    "alt": "A barber applying a facial mask to a male client"
+  },
+  {
+    "previousKey": "skin-serum",
+    "replacementKey": "facial-care",
+    "source": "https://www.pexels.com/photo/27497967/",
+    "alt": "A man receiving a facial and head treatment"
+  },
+  {
+    "previousKey": "skin-care",
+    "replacementKey": "facial-towel",
+    "source": "https://www.pexels.com/photo/12302331/",
+    "alt": "A man receiving a hot towel facial treatment"
+  },
+  {
+    "previousKey": "brows-craft",
+    "replacementKey": "scalp-wash",
+    "source": "https://www.pexels.com/photo/17553843/",
+    "alt": "Professional hair and scalp washing for a male client"
+  },
+  {
+    "previousKey": "bridal-updo",
+    "replacementKey": "portrait-classic",
+    "source": "https://www.pexels.com/photo/2714273/",
+    "alt": "A gentleman with a groomed beard in monochrome"
+  },
+  {
+    "previousKey": "bridal-detail",
+    "replacementKey": "scissor-towel",
+    "source": "https://www.pexels.com/photo/8834066/",
+    "alt": "Professional scissors displayed at a barber station"
+  },
+  {
+    "previousKey": "tools-still",
+    "replacementKey": "tools-dark",
+    "source": "https://www.pexels.com/photo/8552626/",
+    "alt": "Clippers, scissors and comb on a dark surface"
+  },
+  {
+    "previousKey": "tools-brushes",
+    "replacementKey": "tools-wood",
+    "source": "https://www.pexels.com/photo/20785314/",
+    "alt": "Barber scissors and shavers arranged on a wooden table"
+  }
+]
