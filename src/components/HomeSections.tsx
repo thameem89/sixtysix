@@ -13,7 +13,7 @@ export function Hero() {
   return (
     <section className="campaign-hero">
       <EditorialImage
-        imageKey="portrait-blue"
+        imageKey="home-portrait"
         className="hero-photograph"
         priority
         sizes="(max-width:700px) 100vw, 80vw"
