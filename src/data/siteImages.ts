@@ -14,6 +14,19 @@ export interface SiteImage {
 }
 export const providedImages: SiteImage[] = [
   {
+    key: "launch-portrait",
+    src: "/images/launch-portrait.webp",
+    alt: "A bearded gentleman adjusting sunglasses beneath a black SIXTY SIX cap",
+    width: 945,
+    height: 1600,
+    photographer: "Client supplied",
+    source: "Client supplied launch portrait",
+    license: "Provided for this project",
+    illustrative: false,
+    position: "50% 30%",
+    loading: "lazy",
+  },
+  {
     key: "home-portrait",
     src: "/images/home-portrait.webp",
     alt: "A bearded gentleman wearing a black hat, sunglasses and a SIXTY SIX pendant",
@@ -88,7 +101,7 @@ export const siteImages = Object.fromEntries(
   ]),
 ) as Record<string, SiteImage>;
 export const imageGroups = {
-  hero: ["home-portrait", "portrait-cufflinks"],
+  hero: ["home-portrait", "launch-portrait"],
   introduction: ["lounge-interior", "tools-dark"],
   experience: ["barber-chair", "barber-station", "hair-wash"],
   gallery: [

@@ -292,9 +292,9 @@ export function LaunchCampaign() {
   return (
     <section className="launch-campaign">
       <EditorialImage
-        imageKey="portrait-cufflinks"
+        imageKey="launch-portrait"
         sizes="100vw"
-        position="50% 30%"
+        position="100% 50%"
       />
       <div className="launch-shade" />
       <div className="launch-copy">

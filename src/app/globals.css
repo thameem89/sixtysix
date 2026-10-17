@@ -981,9 +981,11 @@ summary:focus-visible {
   background: #242323;
 }
 .launch-campaign > .editorial-image {
+  background: #242323;
   left: 40%;
 }
 .launch-campaign .editorial-image img {
+  object-fit: contain;
   filter: saturate(0.4) brightness(0.72);
 }
 .launch-shade {
