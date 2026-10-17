@@ -337,7 +337,7 @@ summary:focus-visible {
   width: 42px;
   height: auto;
   object-fit: contain;
-  background: #000;
+  background: transparent;
 }
 .brand > span {
   font-family: "Manrope", Arial, sans-serif;

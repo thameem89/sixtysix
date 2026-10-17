@@ -54,7 +54,7 @@ export const providedImages: SiteImage[] = [
   },
   {
     key: "logo",
-    src: "/images/logo.webp",
+    src: "/images/brand-logo.webp",
     alt: "SIXTY SIX — Men’s Grooming Lounge official logo",
     width: 400,
     height: 400,

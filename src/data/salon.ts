@@ -1,6 +1,6 @@
 export const salonConfig = {
   name: "SIXTY SIX",
-  logo: "/images/logo.webp",
+  logo: "/images/brand-logo.webp",
   tagline: "Men’s Grooming Lounge",
   phone: "",
   whatsapp: "",
