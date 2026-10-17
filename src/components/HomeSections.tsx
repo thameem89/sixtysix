@@ -157,7 +157,7 @@ export function GroomingCampaign() {
   return (
     <section className="grooming-campaign">
       <EditorialImage
-        imageKey="portrait-beard"
+        imageKey="presence-portrait"
         sizes="100vw"
         position="50% 33%"
       />

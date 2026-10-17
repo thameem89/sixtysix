@@ -14,6 +14,19 @@ export interface SiteImage {
 }
 export const providedImages: SiteImage[] = [
   {
+    key: "presence-portrait",
+    src: "/images/presence-portrait.webp",
+    alt: "A bearded gentleman with styled dark hair, sunglasses and a black leather jacket",
+    width: 768,
+    height: 1376,
+    photographer: "Client supplied",
+    source: "Client supplied presence campaign portrait",
+    license: "Provided for this project",
+    illustrative: false,
+    position: "50% 25%",
+    loading: "lazy",
+  },
+  {
     key: "launch-portrait",
     src: "/images/launch-portrait.webp",
     alt: "A bearded gentleman adjusting sunglasses beneath a black SIXTY SIX cap",
